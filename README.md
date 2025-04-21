@@ -8,7 +8,7 @@ This is the backend service for the **CommBoost** extension. It transforms basic
 - Integrates with front-end extension via API
 -  Built with Python and FastApi
 
-## 🧐 coming soon 
+## 🧐 Coming soon 
 - Supports tone adjustment (e.g., professional, friendly, persuasive)
 
 ## 🛠️ Setup Instructions
