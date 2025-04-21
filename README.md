@@ -18,10 +18,12 @@ This is the backend service for the **CommBoost** extension. It transforms basic
    git clone https://github.com/yourusername/CommBoost.git
    cd CommBoost
 2. Create a virtual environment
+   ```bash
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-3. install dependencies
+4. install dependencies
+    ```bash
    pip install -r requirements.txt
 
-4. Run the server ✅
+6. Run the server ✅
