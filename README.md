@@ -8,13 +8,6 @@ This is the backend service for the **CommBoost** extension. It transforms basic
 - Integrates with front-end extension via API
 -  Built with Python and FastApi
 
-## ✨ Future Improvements
-Integration with Chrome/Edge extension UI
-Supports tone adjustment (e.g., professional, friendly, persuasive)
-Support for multiple languages
-Style presets (e.g., professional, casual, formal)
-Sentiment control
-
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**
@@ -31,3 +24,11 @@ Sentiment control
    pip install -r requirements.txt
 
 6. Run the server ✅
+
+## ✨ Future Improvements
+Integration with Chrome/Edge extension UI
+Supports tone adjustment (e.g., professional, friendly, persuasive)
+Support for multiple languages
+Style presets (e.g., professional, casual, formal)
+Sentiment control
+
