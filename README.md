@@ -1,4 +1,4 @@
-# 🧠 CommoBoost Extension Backend
+# 🧠 CommoBoost Extension Backend (dropped the idea)
 
 This is the backend service for the **CommBoost** extension. It transforms basic user comments into more optimized, polished, or impactful versions using natural language processing (NLP) techniques.
 
